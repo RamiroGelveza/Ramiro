@@ -1,0 +1,51 @@
+.card-img-top {
+  height: 250px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.card {
+  font-size: 1.1rem;
+}
+
+/* Fondo general */
+body {
+  background-color: #FDF6EC;
+  color: #333;
+}
+
+/* Header */
+header {
+  background-color: #53504e;
+  color: #FAFAFA;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Contenedor */
+.container {
+  background-color: #3d3c3c;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* Títulos principales */
+h1 {
+  color: #f35b28;
+}
+footer {
+  background-color: #53504e;/* Cambia este color por el que quieras */
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+
+
+/* Opcional para botones */
+.btn-primary {
+  background-color: #388E3C;
+  border: none;
+}
+.btn-primary:hover {
+  background-color: #2E7D32;
+}
